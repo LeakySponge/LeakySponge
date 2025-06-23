@@ -14,10 +14,7 @@
 <!-- ![](/imgs/the_snake.PNG) -->
 
 #### I've also built projects like:
-- [Snowball Shodown](https://github.com/NoXerve/NoXerv): A game
-- [Noversi](https://github.com/TapiocaFox/Noversi): Reversi game powered by ML written [purely in NumPy](https://github.com/TapiocaFox/NodeNet) and the "Service System" [NoXerve](https://github.com/NoXerve/NoXerve) mentioned above.
-- [Note-G](https://github.com/TapiocaFox/Note-G): An Arduino UNO rhythm game project. You can edit your music sheet on the web and upload it to Arduino through bluetooth. Format like Open Music XML is supported.
-- [Talksy](https://github.com/NOOXY-research/Talksy): A full-stack chat application with channel and permission control on top of [NoXerve](https://github.com/NoXerve/NoXerve).
+- [Snowball Shodown](uhhhhh): A game
 
 <!--
 
