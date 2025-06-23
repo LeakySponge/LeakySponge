@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m the creator of the `retro fighting game` [JST COME FOR IT!](https://github.com/TapiocaFox/Daijishou).
+- 🔭 I’m the creator of the `retro fighting game` [JST COME FOR IT!](link...).
 - 💪 Currently focusing on `2D Inking` and `Game Development`.
 - 🧐 I've meddled with `UI`, `UX`, `JavaScript`, `React.js`, `Kotlin`, `ML`, `RL`, `Microservice`, `Embbeded System (IoT)`, `C++`.
 - 🌱 I’m currently interested to learn `Painting`, `Web Dev`
