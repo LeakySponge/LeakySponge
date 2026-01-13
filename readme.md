@@ -15,7 +15,7 @@ I'm currently working on JST GET IT ON!<br>Mostly an artist. Mostly.<br>Somethin
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leakysponge&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
-###  Some dipshit quote I found
+###  Some quote I found
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
