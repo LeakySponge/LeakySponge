@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on JST GET IT ON!<br>Mostly an artist. Mostly.<br>Something something, uhh, I like games.<br>and art.<br>Did I mention I like games?
+I'm currently working on... stuff.<br>Mostly an artist. Mostly.<br>Something something, uhh, I like games.<br>and art.<br>Did I mention I like games?
 
 
 ## Socials:
