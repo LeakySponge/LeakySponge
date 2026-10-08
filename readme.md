@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on... stuff.<br>Mostly an artist. Mostly.<br>Something something, uhh, I like games.<br>Did I mention I like games?
+Become awesum...
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leakysponge&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
